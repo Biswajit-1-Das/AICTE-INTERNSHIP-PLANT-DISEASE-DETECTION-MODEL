@@ -12,3 +12,6 @@ soil quality and weather conditions to optimize crop productivity.
 ● Automated disease monitoring
 ● Crop yield optimization
 ● Sustainable farming practices
+
+
+DATASET LINK :: https://drive.google.com/file/d/1X2QjhoA2DY6WMNrkHaKQgsAC15ycm1Bk/view
